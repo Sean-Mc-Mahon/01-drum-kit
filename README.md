@@ -1,5 +1,5 @@
-##Areas covered:
+## Areas covered:
 
-key events
-playing audio
-transition end event
+- key events
+- playing audio
+- transition end event
